@@ -1,0 +1,25 @@
+header {
+  height: 50px;
+  background: orange;
+  text-align: center;
+  color: lightyellow;
+  font-family: monospace;
+}
+
+body {
+  background: olivedrab;
+}
+
+img {
+  height: 150px;
+  border: 2px solid black;
+  float: right; 
+}
+
+h3 {
+  color: orange;
+}
+
+li {
+  color: black;
+}
